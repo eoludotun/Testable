@@ -1,0 +1,65 @@
+2018-01-23 : 23:10:24 - INFO  - Current Platform is: Windows 8.1
+2018-01-23 : 23:10:24 - INFO  - Current Platform is: Windows 8.1
+2018-01-23 : 23:10:27 - INFO  - Current Browser is: ChromeDriver: chrome on WIN8_1 (0b15698f7855f170cec1802737ed211a)
+2018-01-23 : 23:10:28 - INFO  - =====================================================
+2018-01-23 : 23:10:28 - INFO  - Starting Scenario:> User able to enroll and complete course successfully
+2018-01-23 : 23:10:28 - INFO  - =====================================================
+2018-01-23 : 23:10:31 - INFO  - Google_Url is: http://takehome.zeachable.com/
+2018-01-23 : 23:10:31 - INFO  - 	* Expected Value: Welcome to takehome
+2018-01-23 : 23:10:31 - INFO  - 	* Actual Value: Welcome to takehome
+2018-01-23 : 23:10:31 - INFO  - 	* The Expected and Actual Values match. (PASS)
+
+2018-01-23 : 23:10:32 - INFO  - 	* Expected Value: Sign Up to takehome
+2018-01-23 : 23:10:32 - INFO  - 	* Actual Value: Sign Up to takehome
+2018-01-23 : 23:10:32 - INFO  - 	* The Expected and Actual Values match. (PASS)
+
+2018-01-23 : 23:10:33 - INFO  -  is already checked
+2018-01-23 : 23:10:35 - INFO  - 	* Expected Value: artash
+2018-01-23 : 23:10:35 - INFO  - 	* Actual Value: artash
+2018-01-23 : 23:10:35 - INFO  - 	* The Expected and Actual Values match. (PASS)
+
+2018-01-23 : 23:10:35 - INFO  - 	* Expected Value: Category:
+2018-01-23 : 23:10:35 - INFO  - 	* Actual Value: Category:
+2018-01-23 : 23:10:35 - INFO  - 	* The Expected and Actual Values match. (PASS)
+
+2018-01-23 : 23:10:37 - INFO  - user is on : Enroll in Course for
+2018-01-23 : 23:10:37 - INFO  - 	* Expected Value: Thanks for enrolling in this course!
+2018-01-23 : 23:10:37 - INFO  - 	* Actual Value: Thanks for enrolling in this course!
+2018-01-23 : 23:10:37 - INFO  - 	* The Expected and Actual Values match. (PASS)
+
+2018-01-23 : 23:10:37 - INFO  - 	* Expected Value: 0%
+2018-01-23 : 23:10:37 - INFO  - 	* Actual Value: 0%
+2018-01-23 : 23:10:37 - INFO  - 	* The Expected and Actual Values match. (PASS)
+
+2018-01-23 : 23:10:39 - INFO  - 	* Expected Value: 100%
+2018-01-23 : 23:10:39 - INFO  - 	* Actual Value: 50%
+2018-01-23 : 23:10:39 - INFO  - 	* The Expected and Actual Values do not match! (FAIL)
+
+2018-01-23 : 23:10:40 - INFO  - =====================================================
+2018-01-23 : 23:10:40 - INFO  - Completed Scenario:User able to enroll and complete course successfully
+2018-01-23 : 23:10:40 - INFO  - Scenario Test time duration is:>  0 Minutes : 11 Seconds 
+2018-01-23 : 23:10:40 - INFO  - =====================================================
+2018-01-23 : 23:10:43 - INFO  - Current Platform is: Windows 8.1
+2018-01-23 : 23:10:43 - INFO  - Current Platform is: Windows 8.1
+2018-01-23 : 23:10:45 - INFO  - Current Browser is: ChromeDriver: chrome on WIN8_1 (e24d285d94bab53fc595dbe3f61114ef)
+2018-01-23 : 23:10:46 - INFO  - =====================================================
+2018-01-23 : 23:10:46 - INFO  - Starting Scenario:> User unable to Enroll successfully with mis-match password
+2018-01-23 : 23:10:46 - INFO  - =====================================================
+2018-01-23 : 23:10:49 - INFO  - Google_Url is: http://takehome.zeachable.com/
+2018-01-23 : 23:10:49 - INFO  - 	* Expected Value: Welcome to takehome
+2018-01-23 : 23:10:49 - INFO  - 	* Actual Value: Welcome to takehome
+2018-01-23 : 23:10:49 - INFO  - 	* The Expected and Actual Values match. (PASS)
+
+2018-01-23 : 23:10:50 - INFO  - 	* Expected Value: Sign Up to takehome
+2018-01-23 : 23:10:50 - INFO  - 	* Actual Value: Sign Up to takehome
+2018-01-23 : 23:10:50 - INFO  - 	* The Expected and Actual Values match. (PASS)
+
+2018-01-23 : 23:10:51 - INFO  -  is already checked
+2018-01-23 : 23:10:52 - INFO  - 	* Expected Value: Password confirmation doesn't match Password
+2018-01-23 : 23:10:52 - INFO  - 	* Actual Value: Password confirmation doesn't match Password
+2018-01-23 : 23:10:52 - INFO  - 	* The Expected and Actual Values match. (PASS)
+
+2018-01-23 : 23:10:52 - INFO  - =====================================================
+2018-01-23 : 23:10:52 - INFO  - Completed Scenario:User unable to Enroll successfully with mis-match password
+2018-01-23 : 23:10:52 - INFO  - Scenario Test time duration is:>  0 Minutes : 5 Seconds 
+2018-01-23 : 23:10:52 - INFO  - =====================================================
