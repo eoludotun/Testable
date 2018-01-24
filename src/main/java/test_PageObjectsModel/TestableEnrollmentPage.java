@@ -115,15 +115,5 @@ public class TestableEnrollmentPage extends Driver{
     {
     	pageWeBElement(By.id("enroll-button-top")).click();
     }
-//    public TestableEnrollmentPage  searchKeyword(String keyword) throws Exception{
-//    	
-//    	WebElement searchBox = pageWeBElement(By.name("q"));
-//        if (searchBox.isEnabled())
-//        {
-//        	searchBox.clear();
-//            searchBox.sendKeys(keyword, Keys.ENTER);         	
-//        }    	
-//        return this;
-//    }
 
 }
